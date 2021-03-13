@@ -10,6 +10,6 @@
 
 - Rafael Corchuelo (corchu@us.es)
 - Antonio Funes (antfunmej@alum.us.es)
-- Francisco Borrego
+- Francisco Borrego (fraborcar@alum.us.es
 - Sergio Arias Ruda (serarirud@alum.us.es)
-
+- Jesús Vargas Zambrana (jesvarzam@alum.us.es)
