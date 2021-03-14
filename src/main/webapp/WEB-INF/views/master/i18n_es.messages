@@ -44,6 +44,8 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
+master.menu.anonymous.Alejandro-link = Enlace favorito de Alejandro
+master.menu.anonymous.Sergio-link = Enlace favorito de Sergio 
 
 # master.menu.consumer ##########################################################
 
