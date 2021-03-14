@@ -29,6 +29,11 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.Alejandro-link = Enlace favorito de Alejandro
+master.menu.anonymous.Sergio-link = Enlace favorito de Sergio 
+master.menu.anonymous.Francisco-link = Enlace favorito de Francisco
+master.menu.anonymous.Antonio-link = Enlace favorito de Antonio 
+master.menu.anonymous.Jesus-link = Enlace favorito de Jesús
 
 # master.menu.administrator ###################################################
 
@@ -43,11 +48,6 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
-master.menu.anonymous.Alejandro-link = Enlace favorito de Alejandro
-master.menu.anonymous.Sergio-link = Enlace favorito de Sergio 
-master.menu.anonymous.Francisco-link = Enlace favorito de Francisco
-master.menu.anonymous.Antonio-link = Enlace favorito de Antonio 
-master.menu.anonymous.Jesus-link = Enlace favorito de Jesús
 
 
 # master.menu.consumer ##########################################################
