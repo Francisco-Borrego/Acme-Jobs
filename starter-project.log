@@ -32,16 +32,9 @@ Web server failed to start. Port 8080 was already in use.
 Action:
 Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
 WARN [org.hibernate.orm.connections.pooling] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 20336 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on LAPTOP-4ERE8OMS with PID 11668 (C:\Users\fjbc1\Workspace-21.1\Starters\Starter-Project\target\classes started by fjbc1 in C:\Users\fjbc1\Workspace-21.1\Starters\Starter-Project)
 INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Started Launcher in 4.671 seconds (JVM running for 5.12)
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 1920 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
-INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 21992 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
-INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 17624 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
-INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Started Launcher in 4.99 seconds (JVM running for 5.601)
+INFO [acme.Launcher] Started Launcher in 18.27 seconds (JVM running for 21.033)
 INFO [acme.framework.utilities.DatabasePopulator] Populating initial data
 INFO [acme.framework.utilities.DatabasePopulator] Recreating schema
 INFO [acme.framework.utilities.DatabasePopulator] Populating entities from classpath:/WEB-INF/population/initial-data.xml
@@ -64,36 +57,9 @@ INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorUser
 INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorAdministrator = acme.framework.entities.Administrator{id=4, version=0}
 INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorAuthenticated = acme.framework.entities.Authenticated{id=5, version=0}
 INFO [acme.framework.configuration.ShutdownConfiguration] The system is shutting down...
-WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
-ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************
-APPLICATION FAILED TO START
-***************************
-Description:
-Web server failed to start. Port 8080 was already in use.
-Action:
-Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
-WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
-ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************
-APPLICATION FAILED TO START
-***************************
-Description:
-Web server failed to start. Port 8080 was already in use.
-Action:
-Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
-WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
-ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************
-APPLICATION FAILED TO START
-***************************
-Description:
-Web server failed to start. Port 8080 was already in use.
-Action:
-Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 11344 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on LAPTOP-4ERE8OMS with PID 21948 (C:\Users\fjbc1\Workspace-21.1\Starters\Starter-Project\target\classes started by fjbc1 in C:\Users\fjbc1\Workspace-21.1\Starters\Starter-Project)
 INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Started Launcher in 7.163 seconds (JVM running for 8.219)
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 8080 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
-INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Started Launcher in 4.704 seconds (JVM running for 5.161)
+INFO [acme.Launcher] Started Launcher in 8.132 seconds (JVM running for 8.71)
 INFO [acme.framework.utilities.DatabasePopulator] Populating sample data
 INFO [acme.framework.utilities.DatabasePopulator] Recreating schema
 INFO [acme.framework.utilities.DatabasePopulator] Populating entities from classpath:/WEB-INF/population/initial-data.xml
@@ -120,63 +86,17 @@ INFO [acme.framework.utilities.DatabasePopulator] Validating your entities.
 INFO [acme.framework.utilities.DatabasePopulator] Sorting your entities topologically.
 INFO [acme.framework.utilities.DatabasePopulator] Persiting your entities.
 INFO [acme.framework.configuration.ShutdownConfiguration] The system is shutting down...
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 3356 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
+WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************
+APPLICATION FAILED TO START
+***************************
+Description:
+Web server failed to start. Port 8080 was already in use.
+Action:
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on LAPTOP-4ERE8OMS with PID 19032 (C:\Users\fjbc1\Workspace-21.1\Projects\Acme-One\target\classes started by fjbc1 in C:\Users\fjbc1\Workspace-21.1\Projects\Acme-One)
 INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Started Launcher in 4.587 seconds (JVM running for 5.032)
-INFO [acme.framework.utilities.DatabasePopulator] Populating initial data
-INFO [acme.framework.utilities.DatabasePopulator] Recreating schema
-INFO [acme.framework.utilities.DatabasePopulator] Populating entities from classpath:/WEB-INF/population/initial-data.xml
-INFO [acme.framework.utilities.DatabasePopulator] Validating your entities.
-INFO [acme.framework.utilities.DatabasePopulator] Validating anonymousUserAccount ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Validating anonymousAnonymous ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Validating administratorUserAccount ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Validating administratorAdministrator ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Validating administratorAuthenticated ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Sorting your entities topologically.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 0 for anonymousUserAccount.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 1 for anonymousAnonymous.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 2 for administratorUserAccount.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 3 for administratorAdministrator.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 4 for administratorAuthenticated.
-INFO [acme.framework.utilities.DatabasePopulator] Persiting your entities.
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting anonymousUserAccount = acme.framework.entities.UserAccount{id=1, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting anonymousAnonymous = acme.framework.entities.Anonymous{id=2, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorUserAccount = acme.framework.entities.UserAccount{id=3, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorAdministrator = acme.framework.entities.Administrator{id=4, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorAuthenticated = acme.framework.entities.Authenticated{id=5, version=0}
-INFO [acme.framework.configuration.ShutdownConfiguration] The system is shutting down...
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 6796 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
-INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Started Launcher in 5.024 seconds (JVM running for 5.526)
-INFO [acme.framework.utilities.DatabasePopulator] Populating sample data
-INFO [acme.framework.utilities.DatabasePopulator] Recreating schema
-INFO [acme.framework.utilities.DatabasePopulator] Populating entities from classpath:/WEB-INF/population/initial-data.xml
-INFO [acme.framework.utilities.DatabasePopulator] Validating your entities.
-INFO [acme.framework.utilities.DatabasePopulator] Validating anonymousUserAccount ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Validating anonymousAnonymous ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Validating administratorUserAccount ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Validating administratorAdministrator ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Validating administratorAuthenticated ... PASS
-INFO [acme.framework.utilities.DatabasePopulator] Sorting your entities topologically.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 0 for anonymousUserAccount.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 1 for anonymousAnonymous.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 2 for administratorUserAccount.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 3 for administratorAdministrator.
-INFO [acme.framework.utilities.DatabasePopulator] > Setting index 4 for administratorAuthenticated.
-INFO [acme.framework.utilities.DatabasePopulator] Persiting your entities.
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting anonymousUserAccount = acme.framework.entities.UserAccount{id=1, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting anonymousAnonymous = acme.framework.entities.Anonymous{id=2, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorUserAccount = acme.framework.entities.UserAccount{id=3, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorAdministrator = acme.framework.entities.Administrator{id=4, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorAuthenticated = acme.framework.entities.Authenticated{id=5, version=0}
-INFO [acme.framework.utilities.DatabasePopulator] Populating entities from classpath:/WEB-INF/population/sample-data.xml
-INFO [acme.framework.utilities.DatabasePopulator] Validating your entities.
-INFO [acme.framework.utilities.DatabasePopulator] Sorting your entities topologically.
-INFO [acme.framework.utilities.DatabasePopulator] Persiting your entities.
-INFO [acme.framework.configuration.ShutdownConfiguration] The system is shutting down...
-INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on PC-Alejandro with PID 24324 (C:\Users\ALEJANDROPC\git\Acme-Jobs\target\classes started by ALEJANDROPC in C:\Users\ALEJANDROPC\git\Acme-Jobs)
-INFO [acme.Launcher] The following profiles are active: development,populator
-INFO [acme.Launcher] Started Launcher in 4.937 seconds (JVM running for 5.39)
+INFO [acme.Launcher] Started Launcher in 9.866 seconds (JVM running for 12.592)
 INFO [acme.framework.utilities.DatabasePopulator] Populating initial data
 INFO [acme.framework.utilities.DatabasePopulator] Recreating schema
 INFO [acme.framework.utilities.DatabasePopulator] Populating entities from classpath:/WEB-INF/population/initial-data.xml
